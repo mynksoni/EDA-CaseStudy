@@ -3,5 +3,5 @@
 UpGrad assignment
 
 Team
-Utkarsh Sharma
-Mayank Singh Soni
+* Utkarsh Sharma
+* Mayank Singh Soni
